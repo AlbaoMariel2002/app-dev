@@ -24,4 +24,5 @@ However, they must leave their home and explore the regions of Pandora. When an 
 - Spider (Jack Champion)
 - Tsireya (Bailey Bass)
 
+[Avatar: The Way of Water](https://www.youtube.com/watch?v=a8Gx8wiNbs8)
 **Released Date:** December 16,2022
