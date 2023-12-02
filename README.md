@@ -24,4 +24,4 @@ they must leave their home and explore the regions of Pandora. When an ancient t
 - Spider (Jack Champion)
 - Tsireya (Bailey Bass)
 
-**Released Date:** December 16,2022
+**Released Date:** December 16,2022 
