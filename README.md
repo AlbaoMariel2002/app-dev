@@ -1,7 +1,4 @@
-# app-dev
-My first repository
-
-# app-dev
+## app-dev
 My first repository
 
 # Title: Avatar: The Way of Water
@@ -23,5 +20,7 @@ they must leave their home and explore the regions of Pandora. When an ancient t
 - Tuk (Trinity Jo-Li Bliss)
 - Spider (Jack Champion)
 - Tsireya (Bailey Bass)
+
+[Avatar: The Way of Water](https://www.youtube.com/watch?v=a8Gx8wiNbs8)
 
 **Released Date:** December 16,2022 
